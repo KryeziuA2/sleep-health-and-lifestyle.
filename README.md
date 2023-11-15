@@ -1,3 +1,4 @@
+
 # Sleep-health-and-lifestyle
 The research revolves around a large dataset that includes a variety of parameters such as sleep length, sleep quality, physical activity, stress levels, and health indicators among individuals. The dataset contains demographic information, job details, lifestyle habit,and health habits.
 
@@ -15,6 +16,8 @@ I chose the visualization, Kernel Density estimate plot, which is effective for 
 The use of color in the kde plot further enhances the visualization by differentiating between occupations. This makes it easier for users to compare age distributions among different professions within each gender category.
 
 Overall, the application is geared towards providing insights into the relationships between sleep disorders, health, lifestyle, and demographic factors. The chosen visualizations and features aim to make this exploration efficient and insightful for the specified user group.
+
+![download](https://github.com/KryeziuA2/sleep-health-and-lifestyle./assets/98389011/383c5313-085f-41bf-99af-00063e784fe7)
 
 
 
