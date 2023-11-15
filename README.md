@@ -17,7 +17,8 @@ The use of color in the kde plot further enhances the visualization by different
 
 Overall, the application is geared towards providing insights into the relationships between sleep disorders, health, lifestyle, and demographic factors. The chosen visualizations and features aim to make this exploration efficient and insightful for the specified user group.
 
-![download](https://github.com/KryeziuA2/sleep-health-and-lifestyle./assets/98389011/383c5313-085f-41bf-99af-00063e784fe7)
+![image](https://github.com/KryeziuA2/sleep-health-and-lifestyle./assets/98389011/5d768c81-3b34-4d9e-af98-ec13c67d7f82)
+
 
 
 
